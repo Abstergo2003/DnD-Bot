@@ -2,7 +2,7 @@
 ##############################################################################################################################################################
 
 
-By twój bot działał w wersji po polsku zwtczajnie podmień pliki commands.json i events.json w folderze data na te załączone tutaj
+By twój bot działał w wersji po polsku zwtczajnie podmień plik commands.json w folderze data na ten załączony tutaj
 
 
 ################################################################################################################################################################# 
