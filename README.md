@@ -67,7 +67,7 @@ Running bot
 - add bot to your server
 - done
 
-To add bot to your server insert this url in your web browser: https://discordapp.com/oauth2/authorize?client_id='your aplication id'&scope=bot&permissions=2146958591
+To add bot to your server insert this url in your web browser: https://discord.com/api/oauth2/authorize?client_id='your_app_id'6&permissions=8&scope=bot%20applications.commands
 #######################################################################################################################
 
 Youre welcome to insert your own changes to this bot but it was created using Discord Bot Maker so it might be really hard to do without this tool, 
