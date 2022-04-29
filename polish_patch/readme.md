@@ -1,4 +1,4 @@
-# dice-roller
+# DnD Bot
 ##############################################################################################################################################################
 
 
@@ -75,7 +75,7 @@ Start twojego bota
 - zmień dyno formation na worker 
 - możesz dodać bota na server
 
-By dodać pota na server wklej ten link w przeglądarkę: https://discordapp.com/oauth2/authorize?client_id='id twojej aplikacji'&scope=bot&permissions=2146958591
+By dodać pota na server wklej ten link w przeglądarkę: https://discord.com/api/oauth2/authorize?client_id='your_app_id'6&permissions=8&scope=bot%20applications.commands
 ###################################################################################################################################################################
 
 Możesz wprowadzać zmiany w moim bocie, jednak jako że zostal on stworzony przy użyciu aplikacji Discord Bot Maker, może to być ciężkie nie używając jej,
