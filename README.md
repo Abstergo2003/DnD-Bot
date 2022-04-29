@@ -48,7 +48,7 @@ CONFIGURATION:
 2. create your bott aplication
 3. find app id and bot token
 4. open 'bot directory'/data/settings.json
-5. insert previously gathered data in indicated fields
+5. insert previously gathered data in indicated fields 
 6. save file
 ##################################################################################################################
 Running bot
