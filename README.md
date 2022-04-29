@@ -1,4 +1,4 @@
-# dice-roller
+# DnD Bot
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 CREATED BY: Abstergo using Discord Bot Maker
